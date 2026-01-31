@@ -54,7 +54,7 @@ Built with VGG16 transfer learning, the system extracts deep visual features fro
 1. **Clone the repository**
    ```bash
    git clone https://github.com/AsadUllah428/AlgoRing.git
-   cd ringfinder-ai
+  
    ```
 
 2. **Create a virtual environment** (recommended)
