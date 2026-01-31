@@ -101,7 +101,7 @@ Built with VGG16 transfer learning, the system extracts deep visual features fro
 ## 📁 Project Structure
 
 ```
-ringfinder-ai/
+AlgoRing/
 │
 ├── ring/                    # Original ring images dataset
 ├── ring_augmented/          # Augmented images for better training
